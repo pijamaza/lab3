@@ -1,0 +1,14 @@
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_4\bin\Debug\lab_4_4.exe.config
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_4\bin\Debug\lab_4_4.exe
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_4\bin\Debug\lab_4_4.pdb
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_4\obj\Debug\lab_4_4.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_4\obj\Debug\lab_4_4.exe
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_4\obj\Debug\lab_4_4.pdb
+C:\Users\Stas\Desktop\Lab4\lab_4_4\bin\Debug\lab_4_4.exe.config
+C:\Users\Stas\Desktop\Lab4\lab_4_4\bin\Debug\lab_4_4.exe
+C:\Users\Stas\Desktop\Lab4\lab_4_4\bin\Debug\lab_4_4.pdb
+C:\Users\Stas\Desktop\Lab4\lab_4_4\obj\Debug\lab_4_4.csproj.AssemblyReference.cache
+C:\Users\Stas\Desktop\Lab4\lab_4_4\obj\Debug\lab_4_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stas\Desktop\Lab4\lab_4_4\obj\Debug\lab_4_4.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Desktop\Lab4\lab_4_4\obj\Debug\lab_4_4.exe
+C:\Users\Stas\Desktop\Lab4\lab_4_4\obj\Debug\lab_4_4.pdb

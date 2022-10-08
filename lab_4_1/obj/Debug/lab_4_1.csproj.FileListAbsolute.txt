@@ -1,0 +1,14 @@
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_1\bin\Debug\lab_4_1.exe.config
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_1\bin\Debug\lab_4_1.exe
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_1\bin\Debug\lab_4_1.pdb
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_1\obj\Debug\lab_4_1.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_1\obj\Debug\lab_4_1.exe
+C:\Users\vandr\Desktop\Новая папка\Lab4\lab_4_1\obj\Debug\lab_4_1.pdb
+C:\Users\Stas\Desktop\Lab4\lab_4_1\bin\Debug\lab_4_1.exe.config
+C:\Users\Stas\Desktop\Lab4\lab_4_1\bin\Debug\lab_4_1.exe
+C:\Users\Stas\Desktop\Lab4\lab_4_1\bin\Debug\lab_4_1.pdb
+C:\Users\Stas\Desktop\Lab4\lab_4_1\obj\Debug\lab_4_1.csproj.AssemblyReference.cache
+C:\Users\Stas\Desktop\Lab4\lab_4_1\obj\Debug\lab_4_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stas\Desktop\Lab4\lab_4_1\obj\Debug\lab_4_1.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Desktop\Lab4\lab_4_1\obj\Debug\lab_4_1.exe
+C:\Users\Stas\Desktop\Lab4\lab_4_1\obj\Debug\lab_4_1.pdb
