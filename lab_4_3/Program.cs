@@ -10,17 +10,17 @@ namespace lab_4_3
     {
         static void Main(string[] args)
         {
-            Pirate JohnSilver = new Pirate("Джон Сильвер", "Морж", "Квартирмейстер");
-            JohnSilver.Information();
+            Sniper S1mple = new Sniper("Александр Костылев", "Нави", "Снайпер");
+            S1mple.Information();
 
-            Captain CaptainFlint = new Captain("Джеймс Флинт", "Морж", "Капитан", 25, "Нассау");
-            CaptainFlint.Information();
+            Captain Boombl4 = new Captain("Кирилл Михайлов", "Нави", "Капитан", 5, "Глобал");
+            Boombl4.Information();
 
-            Сarpenter JackSmith = new Сarpenter("Джек Смит", "Морж", "Плотник", "Бригантина");
-            JackSmith.Information();
+            Rifler Bit = new Rifler("Валерий Ваховский", "Нави", "Рифлер", "Украина");
+            Bit.Information();
 
-            Gunner WillTurner = new Gunner("Уилл Тёрнер", "Морж", "Канонир", 32, "Бомбарда");
-            WillTurner.Information();
+            Coach B1ad3 = new Coach("Андрей Городенский", "Нави", "Тренер", 10, 1);
+            B1ad3.Information();
 
             Console.ReadLine();
 

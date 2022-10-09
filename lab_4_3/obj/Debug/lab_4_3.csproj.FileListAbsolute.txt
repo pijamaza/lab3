@@ -12,3 +12,11 @@ C:\Users\Stas\Desktop\Lab4\lab_4_3\obj\Debug\lab_4_3.csproj.SuggestedBindingRedi
 C:\Users\Stas\Desktop\Lab4\lab_4_3\obj\Debug\lab_4_3.csproj.CoreCompileInputs.cache
 C:\Users\Stas\Desktop\Lab4\lab_4_3\obj\Debug\lab_4_3.exe
 C:\Users\Stas\Desktop\Lab4\lab_4_3\obj\Debug\lab_4_3.pdb
+C:\GIT\repositories\Lab3\lab_4_3\obj\Debug\lab_4_3.csproj.AssemblyReference.cache
+C:\GIT\repositories\Lab3\lab_4_3\obj\Debug\lab_4_3.csproj.SuggestedBindingRedirects.cache
+C:\GIT\repositories\Lab3\lab_4_3\obj\Debug\lab_4_3.csproj.CoreCompileInputs.cache
+C:\GIT\repositories\Lab3\lab_4_3\obj\Debug\lab_4_3.exe
+C:\GIT\repositories\Lab3\lab_4_3\obj\Debug\lab_4_3.pdb
+C:\GIT\repositories\Lab3\lab_4_3\bin\Debug\lab_4_3.exe.config
+C:\GIT\repositories\Lab3\lab_4_3\bin\Debug\lab_4_3.exe
+C:\GIT\repositories\Lab3\lab_4_3\bin\Debug\lab_4_3.pdb

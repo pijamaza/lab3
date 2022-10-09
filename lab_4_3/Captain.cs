@@ -7,22 +7,22 @@ using System.Threading.Tasks;
 
 namespace lab_4_3
 {
-    class Captain : Pirate
+    class Captain : Sniper
     {
         public int Experience { get; set; }
-        public string MainPort { get; set; }
+        public string Rankcsgo { get; set; }
         public Captain() { }
-        public Captain(string Name, string ShipName, string Rank, int Experience, string MainPort) : base(Name, ShipName, Rank)
+        public Captain(string Name, string Team, string Role, int Experience, string Rankcsgo) : base(Name, Team, Role)
         {
             this.Experience = Experience;
-            this.MainPort = MainPort;
+            this.Rankcsgo = Rankcsgo;
         }
         public override void Information()
         {
-            Console.WriteLine($"\n{this.Rank} корабля '{this.ShipName}' {this.Name}");
-            Console.WriteLine($"Стаж: {this.Experience}\nПорт: {this.MainPort}");
-            Debug.WriteLine($"Класс Captain: имя {this.Name}\nКорабль '{this.ShipName}'\nДолжность '{this.Rank}'\n" +
-                $"Стаж: {this.Experience}\nПорт: {this.MainPort}\n");
+            Console.WriteLine($"\n{this.Role} команды '{this.Team}' {this.Name}");
+            Console.WriteLine($"Стаж: {this.Experience}\nРанг: {this.Rankcsgo}");
+            Debug.WriteLine($"Класс Captain: Имя {this.Name}\nКоманда '{this.Team}'\nРоль '{this.Role}'\n" +
+                $"Стаж: {this.Experience}\nРанг: {this.Rankcsgo}\n");
         }
 
     }
